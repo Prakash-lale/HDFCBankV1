@@ -1,0 +1,10 @@
+qa\HDFCBank\Pages\loginPage.class
+qa\HDFCBank\TestCases\TC_LoginDDT_02.class
+qa\HDFCBank\Utils\readConfig.class
+qa\HDFCBank\Utils\extentReporter.class
+qa\HDFCBank\Utils\readExcelData.class
+qa\HDFCBank\Base\BaseClass.class
+qa\HDFCBank\TestCases\TC_Login_01.class
+qa\HDFCBank\Utils\myUtils.class
+qa\HDFCBank\Pages\homePage.class
+qa\HDFCBank\Utils\Reporting.class
