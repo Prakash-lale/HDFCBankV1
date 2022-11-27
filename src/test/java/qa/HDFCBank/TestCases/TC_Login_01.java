@@ -29,6 +29,7 @@ public class TC_Login_01 extends BaseClass{
 	public void loginTest() {
 		lp = new loginPage();
 		lp.login(readconfig.getUserId(), readconfig.getPwd());
+		driver.switchTo().alert().accept();
 		hp = new homePage();
 		System.out.println(hp.getmanagerId());
 		Assert.assertEquals(hp.getmanagerId(), "Manger Id : mngr452393");
