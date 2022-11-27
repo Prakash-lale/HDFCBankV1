@@ -33,7 +33,7 @@ public class TC_Login_01 extends BaseClass {
 		} else {
 			hp = new homePage();
 			System.out.println(hp.getmanagerId());
-			Assert.assertEquals(hp.getmanagerId(), "Manger Id : mngr452393");
+			Assert.assertTrue(hp.getmanagerId().contains("Manger Id"));
 		}
 	}
 

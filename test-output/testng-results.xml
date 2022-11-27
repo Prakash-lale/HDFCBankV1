@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-21T21:47:58 IST" name="Suite" finished-at="2022-11-21T21:48:50 IST" duration-ms="51961">
+  <suite started-at="2022-11-27T21:26:18 IST" name="Default suite" finished-at="2022-11-27T21:27:12 IST" duration-ms="53096">
     <groups>
     </groups>
-    <test started-at="2022-11-21T21:47:58 IST" name="HDFCbank  Tests" finished-at="2022-11-21T21:48:50 IST" duration-ms="51961">
+    <test started-at="2022-11-27T21:26:18 IST" name="Default test" finished-at="2022-11-27T21:27:12 IST" duration-ms="53096">
       <class name="qa.HDFCBank.TestCases.TC_Login_01">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:47:58 IST" name="setUp" finished-at="2022-11-21T21:48:09 IST" duration-ms="11309" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:26:19 IST" name="setUp" finished-at="2022-11-27T21:26:31 IST" duration-ms="12659" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:09 IST" name="loginTest" finished-at="2022-11-21T21:48:13 IST" duration-ms="4205" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:26:31 IST" name="loginTest" finished-at="2022-11-27T21:26:35 IST" duration-ms="3606" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:13 IST" name="tearDown" finished-at="2022-11-21T21:48:14 IST" duration-ms="459" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:26:35 IST" name="tearDown" finished-at="2022-11-27T21:26:35 IST" duration-ms="618" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:14 IST" name="setUp" finished-at="2022-11-21T21:48:24 IST" duration-ms="10069" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:26:35 IST" name="setUp" finished-at="2022-11-27T21:26:45 IST" duration-ms="9148" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:24 IST" name="loginTest" finished-at="2022-11-21T21:48:27 IST" duration-ms="3400" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:26:45 IST" name="loginTest" finished-at="2022-11-27T21:26:48 IST" duration-ms="2945" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:27 IST" name="tearDown" finished-at="2022-11-21T21:48:28 IST" duration-ms="423" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:26:48 IST" name="tearDown" finished-at="2022-11-27T21:26:48 IST" duration-ms="393" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:28 IST" name="setUp" finished-at="2022-11-21T21:48:36 IST" duration-ms="8515" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:26:48 IST" name="setUp" finished-at="2022-11-27T21:26:57 IST" duration-ms="9272" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,15 +56,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:36 IST" name="loginTest" finished-at="2022-11-21T21:48:39 IST" duration-ms="3000" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:26:57 IST" name="loginTest" finished-at="2022-11-27T21:27:01 IST" duration-ms="3651" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:39 IST" name="tearDown" finished-at="2022-11-21T21:48:39 IST" duration-ms="375" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:27:01 IST" name="tearDown" finished-at="2022-11-27T21:27:01 IST" duration-ms="413" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:39 IST" name="setUp" finished-at="2022-11-21T21:48:49 IST" duration-ms="9314" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:27:01 IST" name="setUp" finished-at="2022-11-27T21:27:11 IST" duration-ms="9429" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="resetTest()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:49 IST" name="resetTest" finished-at="2022-11-21T21:48:49 IST" duration-ms="501" status="PASS">
+        <test-method signature="resetTest()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:27:11 IST" name="resetTest" finished-at="2022-11-27T21:27:11 IST" duration-ms="419" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- resetTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@609bcfb6]" started-at="2022-11-21T21:48:49 IST" name="tearDown" finished-at="2022-11-21T21:48:50 IST" duration-ms="264" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.HDFCBank.TestCases.TC_Login_01@77f1baf5]" started-at="2022-11-27T21:27:11 IST" name="tearDown" finished-at="2022-11-27T21:27:12 IST" duration-ms="451" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- qa.HDFCBank.TestCases.TC_Login_01 -->
-    </test> <!-- HDFCbank  Tests -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
